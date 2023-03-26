@@ -1,3 +1,3 @@
 # HexGrid
 
-A template for an SVG project that preserves aspect ratio and responds to page size.
+A full page hex grid that can be zoomed and panned. Hexes have coordinates and register click events.
